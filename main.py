@@ -10,7 +10,7 @@ time.sleep(1)
 pyautogui.press("enter")
 time.sleep(2)
 pyautogui.press("enter")
-pyautogui.write("te toma no cu rapaz")
+pyautogui.write("sdasdasda")
 time.sleep(3)
 pyautogui.press("enter")
 
